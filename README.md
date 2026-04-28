@@ -1,1 +1,3 @@
 # research-mini-project-
+## References
+- Shahzad et al. (2024) – Artificial intelligence and social media on academic performance...
